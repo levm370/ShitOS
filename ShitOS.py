@@ -13,7 +13,7 @@ while True:
  command1 = input(f"{user}@shitos:~$ ")
  if command1 == "whoami":
      whoami(user)
- if command1.startswith("sudo"):
+ if command1.startswith("su"):
      cmd = command1[5:]
      user = "root" if user == "shitos" else "shitos"
      command1 = cmd
@@ -80,3 +80,4 @@ while True:
      folders.remove(command1[6:])
  elif command1 == "exit":
      exit()
+
