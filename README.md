@@ -1,6 +1,6 @@
 # ShitOS
 made by a kid 11 y.o
-# Made by @slaboto4nik_ops & @ArtemGaragee
+# Made by @Midas_M32R_Live & @pikby
 *Last updates:*\
 1. Calucator
 2. Text editor
